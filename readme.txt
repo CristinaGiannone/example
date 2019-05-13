@@ -1,3 +1,5 @@
 Hello GIT
-<<<<<<< HEAD
 Bugfix
+Started newfeatures
+Continued newfeature
+
