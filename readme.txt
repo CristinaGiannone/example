@@ -1,2 +1,3 @@
 Hello GIT
+<<<<<<< HEAD
 Bugfix
